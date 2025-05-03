@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+torch
+transformers
+spacy
+pillow
+matplotlib
+gradio
+streamlit
